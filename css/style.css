@@ -30,7 +30,7 @@ a{text-decoration: none;}
 #sub_detali .frame #det_box .form_gram select{width: calc(100% - 120px);height: 40px;padding: 10px;display: inline-block;vertical-align: middle;}
 
 #sub_detali .frame #det_box ul{padding: 10px 0;}
-#sub_detali .frame #det_box ul .my_item{background-color: #babaff;padding: 0 5px;border-bottom: 1px solid #777;}
+#sub_detali .frame #det_box ul .my_item{background-color: #ededed;padding: 0 5px;border-bottom: 1px solid #777;}
 #sub_detali .frame #det_box ul .my_item .det_count{padding: 20px 0;font-size: 0;}
 #sub_detali .frame #det_box ul .my_item .det_count > div{display: inline-block;vertical-align: middle;font-size: 13px;}
 #sub_detali .frame #det_box ul .my_item .det_count > div.det_count_tit{width: 45%;font-weight: bold;}
